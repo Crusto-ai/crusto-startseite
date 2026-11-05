@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="12 4 120 78">
+  <!-- Laib + Sparkle aus CrustoAiLogo.tsx; Linienfarbe passt sich hellem/dunklem Browser an -->
+  <style>
+    .laib { stroke: #12233F; }
+    @media (prefers-color-scheme: dark) { .laib { stroke: #EEF1F6; } }
+  </style>
+  <g class="laib" fill="none" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M20 60 C20 40 40 30 65 30 C90 30 110 40 110 60 C110 68 92 74 65 74 C38 74 20 68 20 60 Z"/>
+    <path d="M48 50 L56 40"/>
+    <path d="M60 52 L68 42"/>
+    <path d="M72 50 L80 40"/>
+  </g>
+  <path fill="#EF6D10" d="M118 4 C118 12 121 15 130 15 C121 15 118 18 118 26 C118 18 115 15 106 15 C115 15 118 12 118 4 Z"/>
+</svg>
